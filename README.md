@@ -46,4 +46,4 @@ g++ -O2 -o test <algorithm>/<algorithm>.cc
 
 ## Report
 
-Full analysis available in the [project report](https://nawhji.github.io).
+Full analysis available in the [project report](https://github.com/nawhji/SortingAlgorithms/blob/main/CSE331___Assignment_1(20231233).pdf).
